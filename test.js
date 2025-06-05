@@ -168,6 +168,6 @@ const imageUrls = [
     } 
   });
   
-const token = process.env.TOKEN;
+  const token = 'MTExMjYxNjY0MjM2MzUzOTQ3OA.GXo_dV.JkoDj6MxkLjMOaxERERknTs-WSWFvfC3zBiSho';
   
   DiscordBot.login(token);
